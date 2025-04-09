@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jay Gupta</h1> 
-<h3 align="center">A passionate Software Developer from India</h3> 
+<h3 align="center">A Software Developer from India</h3> 
 
 <img align = "right" alt = "Coading" width = "400" src = "https://cdn.dribbble.com/users/1019864/screenshots/3079099/media/9e5055da2ee6c899aab9403ceb7d0dc3.gif">
 
