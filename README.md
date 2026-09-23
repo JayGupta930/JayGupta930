@@ -101,7 +101,11 @@ modern, scalable and visually engaging web applications.
 <h3 align="center">🎨 Creative Portfolio</h3>
 
 <p align="center">
-  <img src="./assets/portfolio.gif" width="100%" alt="Portfolio Demo"/>
+  <img
+    src="./assets/portfolio.gif"
+    width="100%"
+    alt="Portfolio Demo"
+  />
 </p>
 
 <p align="center">
@@ -133,7 +137,11 @@ creative UI and engaging user experiences.
 <h3 align="center">💻 JSON Code Editor</h3>
 
 <p align="center">
-  <img src="./assets/json-editor.gif" width="100%" alt="JSON Editor Demo"/>
+  <img
+    src="./assets/json-editor.gif"
+    width="100%"
+    alt="JSON Editor Demo"
+  />
 </p>
 
 <p align="center">
@@ -169,7 +177,11 @@ editing and working with JSON data.
 <h3 align="center">🎯 Ochi.design Clone</h3>
 
 <p align="center">
-  <img src="./assets/ochi.gif" width="100%" alt="Ochi Clone Demo"/>
+  <img
+    src="./assets/ochi.gif"
+    width="100%"
+    alt="Ochi Clone Demo"
+  />
 </p>
 
 <p align="center">
@@ -201,7 +213,11 @@ animations and modern visual interactions.
 <h3 align="center">🩺 AI Medical Image Analysis</h3>
 
 <p align="center">
-  <img src="./assets/medical-ai.gif" width="100%" alt="Medical AI Demo"/>
+  <img
+    src="./assets/medical-ai.gif"
+    width="100%"
+    alt="Medical AI Demo"
+  />
 </p>
 
 <p align="center">
@@ -278,7 +294,7 @@ image classification and explainable AI.
 
 
 <!-- ===================================================== -->
-<!--                  GITHUB STREAK                       -->
+<!--                  GITHUB STREAK                        -->
 <!-- ===================================================== -->
 
 ## 🔥 GitHub Streak
@@ -294,66 +310,37 @@ image classification and explainable AI.
 
 
 <!-- ===================================================== -->
-<!--              CONTRIBUTION ACTIVITY                   -->
-<!-- ===================================================== -->
-
-## 📈 Contribution Activity
-
-<p align="center">
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=jaygupta930&theme=tokyo-night&hide_border=true"
-  width="100%"
-  alt="Contribution Graph"
-/>
-
-</p>
-
-
-<!-- ===================================================== -->
-<!--                 CONTRIBUTION SNAKE                   -->
+<!--                 CONTRIBUTION SNAKE                    -->
 <!-- ===================================================== -->
 
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/jaygupta930/jaygupta930/output/github-snake-dark.svg"
-    />
 
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/jaygupta930/jaygupta930/output/github-snake.svg"
-    />
+<picture>
 
-    <img
-      src="https://raw.githubusercontent.com/jaygupta930/jaygupta930/output/github-snake.svg"
-      alt="GitHub Contribution Snake"
-    />
-  </picture>
-</p>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/jaygupta930/jaygupta930/output/github-snake-dark.svg"
+  />
 
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/jaygupta930/jaygupta930/output/github-snake.svg"
+  />
 
-<!-- ===================================================== -->
-<!--                  GITHUB TROPHIES                     -->
-<!-- ===================================================== -->
+  <img
+    src="https://raw.githubusercontent.com/jaygupta930/jaygupta930/output/github-snake.svg"
+    alt="GitHub Contribution Snake"
+  />
 
-## 🏆 GitHub Achievements
-
-<p align="center">
-
-<img
-  src="https://github-profile-trophy.vercel.app/?username=jaygupta930&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1"
-  alt="GitHub Trophies"
-/>
+</picture>
 
 </p>
 
 
 <!-- ===================================================== -->
-<!--                    LET'S CONNECT                     -->
+<!--                    LET'S CONNECT                      -->
 <!-- ===================================================== -->
 
 ## 🤝 Let's Connect
