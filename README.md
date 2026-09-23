@@ -317,12 +317,22 @@ image classification and explainable AI.
 ## 🐍 Contribution Snake
 
 <p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/jaygupta930/jaygupta930/output/github-snake-dark.svg"
+    />
 
-<img
-  src="https://raw.githubusercontent.com/jaygupta930/jaygupta930/output/github-contribution-grid-snake.svg"
-  alt="GitHub Contribution Snake"
-/>
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/jaygupta930/jaygupta930/output/github-snake.svg"
+    />
 
+    <img
+      src="https://raw.githubusercontent.com/jaygupta930/jaygupta930/output/github-snake.svg"
+      alt="GitHub Contribution Snake"
+    />
+  </picture>
 </p>
 
 
