@@ -1,3 +1,7 @@
+<!-- ===================================================== -->
+<!--                    HERO SECTION                       -->
+<!-- ===================================================== -->
+
 <h1 align="center">Hi 👋, I'm Jay Gupta</h1>
 
 <h3 align="center">
@@ -5,199 +9,370 @@ Full Stack Developer • Software Developer • Frontend Engineer • UI/UX Desi
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Building+modern+web+experiences;React+%7C+Next.js+%7C+Node.js;Frontend+%26+Backend+Developer;Turning+ideas+into+digital+products" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Building+modern+web+experiences;React+%7C+Next.js+%7C+Node.js;Frontend+%26+Backend+Developer;Creating+beautiful+user+experiences;Turning+ideas+into+digital+products"
+    alt="Typing SVG"
+  />
 </p>
+
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=jaygupta930&label=Profile%20Views&color=0e75b6&style=flat"
+    alt="Profile Views"
+  />
+</p>
+
+<p align="center">
+
+<a href="https://jaygupta.me">
+<img src="https://img.shields.io/badge/🌐_Portfolio-Visit-0E75B6?style=for-the-badge"/>
+</a>
+
+<a href="https://linkedin.com/in/jaygupta930">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/jaygupta930">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+
+<!-- ===================================================== -->
+<!--                     ABOUT ME                          -->
+<!-- ===================================================== -->
+
+## 👨‍💻 About Me
+
+I'm a Full Stack Developer and UI/UX Designer focused on building
+modern, scalable and visually engaging web applications.
+
+- 🚀 Building products with **React, Next.js & Node.js**
+- 🎨 Passionate about **UI/UX and interactive web experiences**
+- ⚙️ Working with **REST APIs, MongoDB & cloud platforms**
+- 🤖 Exploring **AI-powered applications**
+- ☁️ Learning **scalable SaaS & cloud architecture**
+- 💡 Turning ideas into **real-world digital products**
+
+
+<!-- ===================================================== -->
+<!--                    TECH STACK                         -->
+<!-- ===================================================== -->
+
+## 🛠️ Tech Stack
+
+### 🎨 Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,framer" />
+</p>
+
+### ⚙️ Backend & Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,supabase,firebase" />
+</p>
+
+### 🧰 Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,vercel" />
+</p>
+
+### 🤖 AI / ML
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv" />
+</p>
+
+
+<!-- ===================================================== -->
+<!--                  FEATURED PROJECTS                    -->
+<!-- ===================================================== -->
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%">
+
+<h3 align="center">🎨 Creative Portfolio</h3>
+
+<p align="center">
+  <img src="./assets/portfolio.gif" width="100%" alt="Portfolio Demo"/>
+</p>
+
+<p align="center">
+Modern interactive portfolio with smooth animations,
+creative UI and engaging user experiences.
+</p>
+
+<p align="center">
+<b>React • Framer Motion • GSAP • UI/UX</b>
+</p>
+
+<p align="center">
+
+<a href="LIVE_DEMO_URL">
+<img src="https://img.shields.io/badge/🌐_Live_Demo-Visit-0E75B6?style=for-the-badge"/>
+</a>
+
+<a href="GITHUB_REPO_URL">
+<img src="https://img.shields.io/badge/💻_Source_Code-GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+</td>
+
+
+<td width="50%">
+
+<h3 align="center">💻 JSON Code Editor</h3>
+
+<p align="center">
+  <img src="./assets/json-editor.gif" width="100%" alt="JSON Editor Demo"/>
+</p>
+
+<p align="center">
+Developer-focused JSON editor for formatting,
+editing and working with JSON data.
+</p>
+
+<p align="center">
+<b>React • Next.js • Monaco Editor</b>
+</p>
+
+<p align="center">
+
+<a href="LIVE_DEMO_URL">
+<img src="https://img.shields.io/badge/🌐_Live_Demo-Visit-0E75B6?style=for-the-badge"/>
+</a>
+
+<a href="GITHUB_REPO_URL">
+<img src="https://img.shields.io/badge/💻_Source_Code-GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+</td>
+
+</tr>
+
+
+<tr>
+
+<td width="50%">
+
+<h3 align="center">🎯 Ochi.design Clone</h3>
+
+<p align="center">
+  <img src="./assets/ochi.gif" width="100%" alt="Ochi Clone Demo"/>
+</p>
+
+<p align="center">
+A creative website recreation focused on smooth scrolling,
+animations and modern visual interactions.
+</p>
+
+<p align="center">
+<b>React • Tailwind CSS • Framer Motion • Locomotive Scroll</b>
+</p>
+
+<p align="center">
+
+<a href="LIVE_DEMO_URL">
+<img src="https://img.shields.io/badge/🌐_Live_Demo-Visit-0E75B6?style=for-the-badge"/>
+</a>
+
+<a href="GITHUB_REPO_URL">
+<img src="https://img.shields.io/badge/💻_Source_Code-GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+</td>
+
+
+<td width="50%">
+
+<h3 align="center">🩺 AI Medical Image Analysis</h3>
+
+<p align="center">
+  <img src="./assets/medical-ai.gif" width="100%" alt="Medical AI Demo"/>
+</p>
+
+<p align="center">
+AI-powered medical image analysis system focused on
+image classification and explainable AI.
+</p>
+
+<p align="center">
+<b>Python • TensorFlow • OpenCV • AI/ML</b>
+</p>
+
+<p align="center">
+
+<a href="GITHUB_REPO_URL">
+<img src="https://img.shields.io/badge/💻_Source_Code-GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+</td>
+
+</tr>
+</table>
+
+
+<!-- ===================================================== -->
+<!--              CURRENTLY WORKING ON                     -->
+<!-- ===================================================== -->
+
+## 🎯 Currently Working On
+
+- 🚀 Building scalable **SaaS applications**
+- ⚡ Developing modern **React & Next.js applications**
+- 🔧 Working on **Node.js backend architecture**
+- 🤖 Exploring **AI-powered developer tools**
+- 🌐 Building real-world products for clients
+
+
+<!-- ===================================================== -->
+<!--                CURRENTLY LEARNING                     -->
+<!-- ===================================================== -->
+
+## 📚 Currently Learning
+
+- 🏗️ Scalable Backend Architecture
+- ☁️ Cloud & SaaS Architecture
+- 🤖 AI Application Development
+- 🔐 Advanced Authentication & Security
+- 📦 System Design
+- 🚀 Production-ready application architecture
+
+
+<!-- ===================================================== -->
+<!--                  GITHUB ANALYTICS                     -->
+<!-- ===================================================== -->
+
+## 📊 GitHub Analytics
+
+<p align="center">
 
 <img
-  align="right"
-  alt="Coading"
-  width="400"
-  src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/media/9e5055da2ee6c899aab9403ceb7d0dc3.gif"
+  height="180"
+  src="https://github-readme-stats.vercel.app/api?username=jaygupta930&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+  alt="GitHub Stats"
 />
 
-<p align="left">
-  <img
-    src="https://komarev.com/ghpvc/?username=jaygupta930&label=Profile%20views&color=0e75b6&style=flat"
-    alt="jaygupta930"
-  />
+<img
+  height="180"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaygupta930&layout=compact&theme=tokyonight&hide_border=true"
+  alt="Top Languages"
+/>
+
 </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/jaygupta930" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="jaygupta930"
-      height="30"
-      width="40"
-  /></a>
-  <a href="https://www.codechef.com/users/jay_gupta930" target="blank"
-    ><img
-      align="center"
-      src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg"
-      alt="jay_gupta930"
-      height="30"
-      width="40"
-  /></a>
+
+<!-- ===================================================== -->
+<!--                  GITHUB STREAK                       -->
+<!-- ===================================================== -->
+
+## 🔥 GitHub Streak
+
+<p align="center">
+
+<img
+  src="https://github-readme-streak-stats.herokuapp.com/?user=jaygupta930&theme=tokyonight&hide_border=true"
+  alt="GitHub Streak"
+/>
+
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-    <img
-      src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg"
-      alt="arduino"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
-      alt="c"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-      alt="cplusplus"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-      alt="css3"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
-      alt="figma"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"
-      alt="flutter"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-      alt="git"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
-      alt="java"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a
-    href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-    target="_blank"
-    rel="noreferrer"
-  >
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      alt="javascript"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
-      alt="linux"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-      alt="mysql"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-      alt="nodejs"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg"
-      alt="oracle"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
-      alt="postman"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-      alt="python"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-      alt="react"
-      width="40"
-      height="40"
-    />
-  </a>
+
+<!-- ===================================================== -->
+<!--              CONTRIBUTION ACTIVITY                   -->
+<!-- ===================================================== -->
+
+## 📈 Contribution Activity
+
+<p align="center">
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=jaygupta930&theme=tokyo-night&hide_border=true"
+  width="100%"
+  alt="Contribution Graph"
+/>
+
 </p>
 
-<p>
-  <img
-    align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=jaygupta930&show_icons=true&locale=en&layout=compact"
-    alt="jaygupta930"
-  />
+
+<!-- ===================================================== -->
+<!--                 CONTRIBUTION SNAKE                   -->
+<!-- ===================================================== -->
+
+## 🐍 Contribution Snake
+
+<p align="center">
+
+<img
+  src="https://raw.githubusercontent.com/jaygupta930/jaygupta930/output/github-contribution-grid-snake.svg"
+  alt="GitHub Contribution Snake"
+/>
+
 </p>
 
-<p>
-  &nbsp;<img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api?username=jaygupta930&show_icons=true&locale=en"
-    alt="jaygupta930"
-  />
+
+<!-- ===================================================== -->
+<!--                  GITHUB TROPHIES                     -->
+<!-- ===================================================== -->
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+
+<img
+  src="https://github-profile-trophy.vercel.app/?username=jaygupta930&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1"
+  alt="GitHub Trophies"
+/>
+
 </p>
 
-<p>
-  <img
-    align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=jaygupta930&"
-    alt="jaygupta930"
-  />
+
+<!-- ===================================================== -->
+<!--                    LET'S CONNECT                     -->
+<!-- ===================================================== -->
+
+## 🤝 Let's Connect
+
+<p align="center">
+
+I'm always open to interesting projects, collaborations,
+and conversations about technology.
+
+</p>
+
+<p align="center">
+
+<a href="https://jaygupta.me">
+<img src="https://img.shields.io/badge/🌐_Portfolio-Visit-0E75B6?style=for-the-badge"/>
+</a>
+
+<a href="https://linkedin.com/in/jaygupta930">
+<img src="https://img.shields.io/badge/💼_LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/📧_Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+<p align="center">
+
+### ⭐ Thanks for visiting my profile!
+
 </p>
