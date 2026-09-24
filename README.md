@@ -96,13 +96,15 @@ modern, scalable and visually engaging web applications.
 
 
 <!-- ===================================================== -->
-<!--                  FEATURED PROJECTS                    -->
+<!--                  LIVE PROJECTS                        -->
 <!-- ===================================================== -->
 
-## 🚀 Featured Projects
+## 🚀 Live Projects
 
 <table>
 <tr>
+
+<!-- PORTFOLIO -->
 
 <td width="50%">
 
@@ -117,8 +119,8 @@ modern, scalable and visually engaging web applications.
 </p>
 
 <p align="center">
-Modern interactive portfolio with smooth animations,
-creative UI and engaging user experiences.
+Personal developer portfolio featuring interactive UI,
+smooth animations, creative sections and modern web experiences.
 </p>
 
 <p align="center">
@@ -127,18 +129,148 @@ creative UI and engaging user experiences.
 
 <p align="center">
 
-<a href="LIVE_DEMO_URL">
-<img src="https://img.shields.io/badge/🌐_Live_Demo-Visit-0E75B6?style=for-the-badge"/>
+<a href="https://jaygupta.me">
+<img src="https://img.shields.io/badge/🌐_Live-Visit-0E75B6?style=for-the-badge"/>
 </a>
 
-<a href="GITHUB_REPO_URL">
-<img src="https://img.shields.io/badge/💻_Source_Code-GitHub-181717?style=for-the-badge&logo=github"/>
+<a href="https://img.shields.io/badge/Status-Active-success?style=for-the-badge">
+<img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge"/>
 </a>
 
 </p>
 
 </td>
 
+
+<!-- FOX CREATION -->
+
+<td width="50%">
+
+<h3 align="center">🦊 Fox Creation</h3>
+
+<p align="center">
+  <img
+    src="./assets/foxcreation.gif"
+    width="100%"
+    alt="Fox Creation Website"
+  />
+</p>
+
+<p align="center">
+Clothing brand website built to showcase products,
+brand identity and provide a modern shopping experience.
+</p>
+
+<p align="center">
+<b>React • Next.js • E-commerce • UI/UX</b>
+</p>
+
+<p align="center">
+
+<a href="https://foxcreation.web.app">
+<img src="https://img.shields.io/badge/🌐_Live-Visit-0E75B6?style=for-the-badge"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge"/>
+</a>
+
+</p>
+
+</td>
+
+</tr>
+
+
+<tr>
+
+<!-- MACHINERY MANAGEMENT -->
+
+<td width="50%">
+
+<h3 align="center">⚙️ Machinery Management</h3>
+
+<p align="center">
+  <img
+    src="./assets/machinery-management.gif"
+    width="100%"
+    alt="Machinery Management"
+  />
+</p>
+
+<p align="center">
+SaaS-based machinery management platform for managing
+machines, AMC, servicing, maintenance and related operations.
+</p>
+
+<p align="center">
+<b>React • Node.js • MongoDB • SaaS</b>
+</p>
+
+<p align="center">
+
+<a href="https://machinerymanagement.web.app">
+<img src="https://img.shields.io/badge/🌐_Live-Visit-0E75B6?style=for-the-badge"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge"/>
+</a>
+
+</p>
+
+</td>
+
+
+<!-- SANSKAR DHANI GARBA -->
+
+<td width="50%">
+
+<h3 align="center">🎟️ Sanskar Dhanigarba</h3>
+
+<p align="center">
+  <img
+    src="./assets/garba-booking.gif"
+    width="100%"
+    alt="Garba Ticketing Platform"
+  />
+</p>
+
+<p align="center">
+Complete Garba ticketing platform with online booking,
+ticket generation, QR scanning, check-in, check-out and payments.
+</p>
+
+<p align="center">
+<b>Next.js • Node.js • QR System • Payment Gateway</b>
+</p>
+
+<p align="center">
+
+<a href="https://sanskardhanigarba.in">
+<img src="https://img.shields.io/badge/🌐_Live-Visit-0E75B6?style=for-the-badge"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge"/>
+</a>
+
+</p>
+
+</td>
+
+</tr>
+</table>
+
+
+<!-- ===================================================== -->
+<!--                 OTHER PROJECTS                        -->
+<!-- ===================================================== -->
+
+## 💻 Other Projects
+
+<table>
+<tr>
 
 <td width="50%">
 
@@ -175,10 +307,6 @@ editing and working with JSON data.
 
 </td>
 
-</tr>
-
-
-<tr>
 
 <td width="50%">
 
@@ -215,6 +343,10 @@ animations and modern visual interactions.
 
 </td>
 
+</tr>
+
+
+<tr>
 
 <td width="50%">
 
