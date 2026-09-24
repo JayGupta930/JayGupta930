@@ -10,6 +10,14 @@ Full Stack Developer • Software Developer • Frontend Engineer • UI/UX Desi
 
 <p align="center">
   <img
+    src="https://i.pinimg.com/originals/ca/26/2e/ca262e0354eea311c41134c3e4bc3bc2.gif"
+    width="500"
+    alt="Developer Animation"
+  />
+</p>
+
+<p align="center">
+  <img
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Building+modern+web+experiences;React+%7C+Next.js+%7C+Node.js;Frontend+%26+Backend+Developer;Creating+beautiful+user+experiences;Turning+ideas+into+digital+products"
     alt="Typing SVG"
   />
