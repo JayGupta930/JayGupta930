@@ -133,9 +133,7 @@ smooth animations, creative sections and modern web experiences.
 <img src="https://img.shields.io/badge/🌐_Live-Visit-0E75B6?style=for-the-badge"/>
 </a>
 
-<a href="https://img.shields.io/badge/Status-Active-success?style=for-the-badge">
 <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge"/>
-</a>
 
 </p>
 
@@ -171,9 +169,7 @@ brand identity and provide a modern shopping experience.
 <img src="https://img.shields.io/badge/🌐_Live-Visit-0E75B6?style=for-the-badge"/>
 </a>
 
-<a href="#">
 <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge"/>
-</a>
 
 </p>
 
@@ -213,9 +209,7 @@ machines, AMC, servicing, maintenance and related operations.
 <img src="https://img.shields.io/badge/🌐_Live-Visit-0E75B6?style=for-the-badge"/>
 </a>
 
-<a href="#">
 <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge"/>
-</a>
 
 </p>
 
@@ -251,15 +245,71 @@ ticket generation, QR scanning, check-in, check-out and payments.
 <img src="https://img.shields.io/badge/🌐_Live-Visit-0E75B6?style=for-the-badge"/>
 </a>
 
-<a href="#">
 <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge"/>
-</a>
 
 </p>
 
 </td>
 
 </tr>
+
+
+<tr>
+
+<!-- STUTI SYSTEMS -->
+
+<td width="50%">
+
+<h3 align="center">🛒 Stuti Systems</h3>
+
+<p align="center">
+  <img
+    src="./assets/stuti-systems.gif"
+    width="100%"
+    alt="Stuti Systems E-commerce"
+  />
+</p>
+
+<p align="center">
+Complete full-stack e-commerce platform with user authentication,
+product management, cart, orders, payments and a dedicated admin portal.
+</p>
+
+<p align="center">
+<b>React • Node.js • MongoDB • Payment Gateway • Admin Portal</b>
+</p>
+
+<p align="center">
+
+<a href="https://stutisystems.com">
+<img src="https://img.shields.io/badge/🌐_Live-Visit-0E75B6?style=for-the-badge"/>
+</a>
+
+<img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge"/>
+
+</p>
+
+</td>
+
+<td width="50%">
+
+<h3 align="center">💡 More Projects Coming Soon</h3>
+
+<p align="center">
+  <br>
+  <br>
+  🚀 Building more real-world products
+  <br>
+  <br>
+  <b>Stay tuned!</b>
+  <br>
+  <br>
+</p>
+
+</td>
+
+</tr>
+
 </table>
 
 
