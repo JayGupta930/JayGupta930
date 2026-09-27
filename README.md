@@ -72,25 +72,25 @@ modern, scalable and visually engaging web applications.
 
 ### 🎨 Frontend
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,framer" />
 </p>
 
 ### ⚙️ Backend & Database
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,supabase,firebase" />
 </p>
 
 ### 🧰 Tools & Platforms
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,vercel" />
 </p>
 
 ### 🤖 AI / ML
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv" />
 </p>
 
