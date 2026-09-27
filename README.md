@@ -70,7 +70,7 @@ modern, scalable and visually engaging web applications.
 
 ## 🛠️ Tech Stack
 
-### 🎨 Frontend
+####################################### 🎨 Frontend
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,framer" />
