@@ -291,6 +291,7 @@ product management, cart, orders, payments and a dedicated admin portal.
 
 </td>
 
+
 <td width="50%">
 
 <h3 align="center">💡 More Projects Coming Soon</h3>
@@ -469,11 +470,12 @@ image classification and explainable AI.
 <p align="center">
 
 <img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=jaygupta930&theme=tokyonight&hide_border=true"
+  src="https://streak-stats.demolab.com/?user=jaygupta930&theme=tokyonight&hide_border=true"
   alt="GitHub Streak"
 />
 
 </p>
+
 
 <!-- ===================================================== -->
 <!--               3D CONTRIBUTION GRAPH                  -->
@@ -482,23 +484,13 @@ image classification and explainable AI.
 ## 📈 3D Contribution Graph
 
 <p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="./profile-3d-contrib/profile-night-rainbow.svg"
-    />
 
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="./profile-3d-contrib/profile-gitblock.svg"
-    />
+  <img
+    src="./profile-3d-contrib/profile-green-animate.svg"
+    alt="3D GitHub Contribution Graph"
+    width="100%"
+  />
 
-    <img
-      src="./profile-3d-contrib/profile-night-rainbow.svg"
-      alt="3D GitHub Contribution Graph"
-      width="100%"
-    />
-  </picture>
 </p>
 
 
