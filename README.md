@@ -68,27 +68,27 @@ modern, scalable and visually engaging web applications.
 <!--                    TECH STACK                         -->
 <!-- ===================================================== -->
 
-## 🛠️ Tech Stack
+<h2 align="center">🛠️ Tech Stack</h2>
 
-####################################### 🎨 Frontend
+<h3 align="center">🎨 Frontend</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,framer" />
 </p>
 
-### ⚙️ Backend & Database
+<h3 align="center">⚙️ Backend & Database</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,supabase,firebase" />
 </p>
 
-### 🧰 Tools & Platforms
+<h3 align="center">🧰 Tools & Platforms</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,vercel" />
 </p>
 
-### 🤖 AI / ML
+<h3 align="center">🤖 AI / ML</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv" />
