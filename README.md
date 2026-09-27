@@ -475,6 +475,32 @@ image classification and explainable AI.
 
 </p>
 
+<!-- ===================================================== -->
+<!--               3D CONTRIBUTION GRAPH                  -->
+<!-- ===================================================== -->
+
+## 📈 3D Contribution Graph
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="./profile-3d-contrib/profile-night-rainbow.svg"
+    />
+
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="./profile-3d-contrib/profile-gitblock.svg"
+    />
+
+    <img
+      src="./profile-3d-contrib/profile-night-rainbow.svg"
+      alt="3D GitHub Contribution Graph"
+      width="100%"
+    />
+  </picture>
+</p>
+
 
 <!-- ===================================================== -->
 <!--                 CONTRIBUTION SNAKE                    -->
