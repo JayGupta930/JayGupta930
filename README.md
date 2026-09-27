@@ -292,6 +292,8 @@ product management, cart, orders, payments and a dedicated admin portal.
 </td>
 
 
+<!-- MORE PROJECTS -->
+
 <td width="50%">
 
 <h3 align="center">💡 More Projects Coming Soon</h3>
@@ -431,6 +433,7 @@ image classification and explainable AI.
 </td>
 
 </tr>
+
 </table>
 
 
@@ -486,9 +489,9 @@ image classification and explainable AI.
 <p align="center">
 
   <img
-    src="./profile-3d-contrib/profile-green-animate.svg"
+    src="./profile-3d-contrib/profile-night-green.svg"
+    width="80%"
     alt="3D GitHub Contribution Graph"
-    width="100%"
   />
 
 </p>
